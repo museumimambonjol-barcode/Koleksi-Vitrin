@@ -1,0 +1,71 @@
+{
+  "vitrin": "Vitrin 1",
+  "judul_panel": "Tinggalan Sejarah Tanah Bonjol",
+  "panel_image": "vitrin_1__tinggalan_sejarah_tanah_bonjol.jpeg",
+  "jumlah_koleksi": 3,
+  "koleksi": [
+    {
+      "kode": "V1-01",
+      "nama_umum": "Piring",
+      "nama_daerah": "",
+      "jenis_koleksi": "Keramologika",
+      "sub_jenis_koleksi": "Alat rumah tangga",
+      "bahan": "Porselin halus",
+      "cara_didapat": "",
+      "tanggal_didapat": "",
+      "kondisi_benda": "Terawat",
+      "tempat_asal_didapat": "Museum Tuanku Imam Bonjol",
+      "tempat_asal_dibuat": "Cina",
+      "no_reg": "96",
+      "no_invb": "08.38",
+      "ukuran": "Tinggi: 5cm; Diameter Mulut: 40,1 cm; Diameter Alas: 26,9 cm",
+      "deskripsi": "Letak Negara kita yang sangat strategis dan hasil bumi kita yang melimpah ruah dengan rempah- rempahnya seperti buah pala, cengkeh, kayu manis, ketumbar, garda munggu dll maka bangsa asing tertarik dengan hasil rempah kita dan diganti dengan benda-benda keramik yang berasal dari Eropa, China, Jepang dll. Salah satunya berupa piring keramik terbuat dari porselin halus dibakar dengan suhu tinggi berkisar 1200-1400 derajat celcius. Warna dasar putih susu. Bentuk bundar, melingkar dengan permukaan bibir piring yang sumbing, dinding melengkung seperti huruf C. Kaki rendah dan bersudut. Glasir putih mengkilat pada bagian dalam dan luar.Tanpa hiasan/polos. Digunakan sebagai tempat makanan seperti apik ayam/singgang ayam.",
+      "pencatat": "Revan Defri, S.Pd & Vinny Marlinda, SE",
+      "foto": [
+        "Keramik_Local_01_1.jpeg"
+      ]
+    },
+    {
+      "kode": "V1-02",
+      "nama_umum": "Mangkok",
+      "nama_daerah": "",
+      "jenis_koleksi": "Keramologika",
+      "sub_jenis_koleksi": "Keramik asing",
+      "bahan": "Porslein/kaolin",
+      "cara_didapat": "",
+      "tanggal_didapat": "",
+      "kondisi_benda": "Baik",
+      "tempat_asal_didapat": "Museum Tuanku Imam Bonjol",
+      "tempat_asal_dibuat": "China",
+      "no_reg": "10",
+      "no_invb": "08.10",
+      "ukuran": "",
+      "deskripsi": "Satu set mangkuk ini terdiri atas wadah, tutup dan sendok. Terbuat dari porslein glasir berwarna putih mengkilat tanpa hiasan. Bentuk wadah, badan bulat mulut lebar bagian kaki kecil. Pada pundak terdapat 2 buah tangkai sebagai pegangan. Tutup melengkung bagian atas terdapat toping sebagai pegangan sewaktu membuka dan menutup, pada salah satu bibir penutup terdapat lobang tempat sendok. Sendok juga terbuat dari bahan yang sama dengan tangkai agak panjang dan melengkung bagian ujungnya, wadah sendok bentuk cekung. Namun jika melihat bentuk, kondisi dan ciri khasnya mangkuk ini termasuk baru kemungkinan berasal dari China. Mangkuk seperti ini banyak digunakan sebagai tempat sup maupun sayur mayur dan juga dapat digunakan sebagai tempat nasi terutama pada upacara adat seperti pada upacara adat perkawinan di Minangkabau.",
+      "pencatat": "Riza Mutia",
+      "foto": [
+        "Keramik_Local_02_2.jpeg"
+      ]
+    },
+    {
+      "kode": "V1-03",
+      "nama_umum": "Kendi",
+      "nama_daerah": "",
+      "jenis_koleksi": "Keramologika",
+      "sub_jenis_koleksi": "Alat rumah tangga",
+      "bahan": "Batuan",
+      "cara_didapat": "",
+      "tanggal_didapat": "",
+      "kondisi_benda": "Terawat",
+      "tempat_asal_didapat": "Museum Tuanku Imam Bonjol",
+      "tempat_asal_dibuat": "",
+      "no_reg": "135",
+      "no_invb": "08.76",
+      "ukuran": "",
+      "deskripsi": "sejenis wadaha merupakan salah satu peralatan rumah tangga. Terbuat dari bebatuan badan gemu, pundak landai, leher tinggi, bibir tebal dan mulut melebar keluar. Glasir warna coklat tua pada bagian luar, sedangkan bagian dalam tanpa glasir. Digunakan sebagai tempat air maupun sebagai hiasan atau pajangan dalam rumah tangga.",
+      "pencatat": "",
+      "foto": [
+        "Keramik_Local_03_3.jpeg"
+      ]
+    }
+  ]
+}
