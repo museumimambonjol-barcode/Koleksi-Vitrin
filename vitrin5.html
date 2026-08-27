@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Museum Tuanku Imam Bonjol - Vitrin 5 - Jejak Warna dari Maastricht</title>
+<style>
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: 'Georgia', 'Times New Roman', serif;
+    background: #f5f0e6;
+    color: #3a2e1f;
+  }
+  .panel-img {
+    width: 100%;
+    display: block;
+  }
+  .content {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px 16px 60px;
+  }
+  .section-title {
+    text-align: center;
+    font-size: 1.4rem;
+    margin: 24px 0 20px;
+    color: #6b4b2a;
+    border-bottom: 2px solid #b8935a;
+    padding-bottom: 10px;
+  }
+  .card {
+    background: #fffdf8;
+    border: 1px solid #d9c7a3;
+    border-radius: 10px;
+    margin-bottom: 22px;
+    overflow: hidden;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+  }
+  .card-header {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    padding: 16px;
+  }
+  .card img.foto-koleksi {
+    width: 160px;
+    height: 160px;
+    object-fit: cover;
+    border-radius: 8px;
+    border: 1px solid #d9c7a3;
+    flex-shrink: 0;
+  }
+  .card-info {
+    flex: 1;
+    min-width: 200px;
+  }
+  .card-info h3 {
+    margin: 0 0 6px;
+    color: #6b4b2a;
+    font-size: 1.15rem;
+  }
+  .card-info .sub {
+    font-style: italic;
+    color: #8a7355;
+    margin-bottom: 8px;
+    font-size: 0.9rem;
+  }
+  .meta-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.88rem;
+  }
+  .meta-table td {
+    padding: 3px 6px 3px 0;
+    vertical-align: top;
+  }
+  .meta-table td.label {
+    color: #8a7355;
+    white-space: nowrap;
+    width: 40%;
+  }
+  .deskripsi {
+    padding: 0 16px 16px;
+    font-size: 0.92rem;
+    line-height: 1.55;
+    border-top: 1px dashed #d9c7a3;
+    margin-top: 8px;
+    padding-top: 12px;
+  }
+  .no-photo {
+    width: 160px;
+    height: 160px;
+    background: #eee2c8;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #b8a06a;
+    font-size: 0.8rem;
+    text-align: center;
+    flex-shrink: 0;
+  }
+  footer {
+    text-align: center;
+    padding: 20px;
+    color: #8a7355;
+    font-size: 0.8rem;
+  }
+</style>
+</head>
+<body>
+
+<img class="panel-img" src="foto_panel/vitrin_5__jejak_warna_dari_maastriact.jpeg" alt="Panel Vitrin 5 - Jejak Warna dari Maastricht">
+
+<div class="content">
+  <div class="section-title">Koleksi di Vitrin Ini</div>
+  <div id="koleksi-list">Memuat data koleksi...</div>
+</div>
+
+<footer>Museum Tuanku Imam Bonjol &middot; Vitrin 5 - Jejak Warna dari Maastricht</footer>
+
+<script>
+fetch('data/data_vitrin5.json')
+  .then(res => res.json())
+  .then(data => {
+    const container = document.getElementById('koleksi-list');
+    container.innerHTML = '';
+    data.koleksi.forEach(item => {
+      const card = document.createElement('div');
+      card.className = 'card';
+
+      const fotoHtml = (item.foto && item.foto.length > 0)
+        ? item.foto.map(f => `<img class="foto-koleksi" src="foto_koleksi/${f}" alt="${item.nama_umum}">`).join('')
+        : `<div class="no-photo">Foto belum tersedia</div>`;
+
+      const namaDaerah = item.nama_daerah ? ` <span class="sub">(${item.nama_daerah})</span>` : '';
+
+      card.innerHTML = `
+        <div class="card-header">
+          ${fotoHtml}
+          <div class="card-info">
+            <h3>${item.nama_umum}${namaDaerah}</h3>
+            <table class="meta-table">
+              <tr><td class="label">Jenis Koleksi</td><td>: ${item.jenis_koleksi || '-'}</td></tr>
+              <tr><td class="label">Sub Jenis</td><td>: ${item.sub_jenis_koleksi || '-'}</td></tr>
+              <tr><td class="label">Bahan</td><td>: ${item.bahan || '-'}</td></tr>
+              <tr><td class="label">Ukuran</td><td>: ${item.ukuran || '-'}</td></tr>
+              <tr><td class="label">Kondisi</td><td>: ${item.kondisi_benda || '-'}</td></tr>
+              <tr><td class="label">Asal Dibuat</td><td>: ${item.tempat_asal_dibuat || '-'}</td></tr>
+              <tr><td class="label">No. Reg / Inv. B</td><td>: ${item.no_reg || '-'} / ${item.no_invb || '-'}</td></tr>
+            </table>
+          </div>
+        </div>
+        <div class="deskripsi">${item.deskripsi || ''}</div>
+      `;
+      container.appendChild(card);
+    });
+  })
+  .catch(err => {
+    document.getElementById('koleksi-list').innerHTML =
+      '<p style="text-align:center;color:red;">Data koleksi gagal dimuat. Pastikan file JSON tersedia.</p>';
+    console.error(err);
+  });
+</script>
+
+</body>
+</html>
