@@ -4,50 +4,8 @@
   "panel_image": "vitrin_3__warisan_budaya_negeri_tirai_bambu.jpeg",
   "jumlah_koleksi": 7,
   "koleksi": [
-    {
+        {
       "kode": "V3-01",
-      "nama_umum": "Kendi",
-      "nama_daerah": "",
-      "jenis_koleksi": "Keramologika",
-      "sub_jenis_koleksi": "Keramik asing",
-      "bahan": "Batuan/kaolin",
-      "cara_didapat": "",
-      "tanggal_didapat": "",
-      "kondisi_benda": "Terawat",
-      "tempat_asal_didapat": "Museum Tuanku Imam Bonjol",
-      "tempat_asal_dibuat": "China",
-      "no_reg": "56",
-      "no_invb": "08.24",
-      "ukuran": "",
-      "deskripsi": "Benda keramik ada yang terbuat dari tanah liat putih, merah, batuan, porselein dengan campuran bahan tertentu melalui proses yang cukup lama hingga dapat digunakan. Benda- benda keramik selain untuk kebutuhaan rumah tangga juga banyak yang diekspor ke negara lain. Negara yang banyak memproduksi keramik ini antara China, jepang, Eropa dll.\nKendi ini terbuat dari bahan batuan dengan menggunakan roda pelarik dibakar dengan suhu tinggi. Bentuk silinder makin ke atas lebih besar, mulut lebar dan bibir tebalada bagian yang pecah. Glasir putih tidak rata . Kendi ini dapat digunakan sebagai tempat air atau sebagai vas bunga.",
-      "pencatat": "Revan Defri, S.Pd & Vinny Marlinda, SE",
-      "foto": [
-        "Keramik_China_01_5.jpeg"
-      ]
-    },
-    {
-      "kode": "V3-02",
-      "nama_umum": "Botol",
-      "nama_daerah": "",
-      "jenis_koleksi": "Keramologika",
-      "sub_jenis_koleksi": "Alat rumah tangga",
-      "bahan": "Batuan",
-      "cara_didapat": "",
-      "tanggal_didapat": "",
-      "kondisi_benda": "Terawat",
-      "tempat_asal_didapat": "Museum Tuanku Imam Bonjol",
-      "tempat_asal_dibuat": "China",
-      "no_reg": "135",
-      "no_invb": "08.74",
-      "ukuran": "",
-      "deskripsi": "sejenis wadah merupakan salah satu peralatan rumah tangga yaitu buli-buli, terbuat dari batuan. Bentuk bulat, dinding tegak/berdiri, pundak landai dan mulut besar serta bibir tebal melebar keluar. Glasir mengkilat pada bagian dinding luar warna coklat, sedangkan bagian dalam tanpa glasir. digunakan sebagai tempat air maupun sebagai tempat ramuan obat-obatan.",
-      "pencatat": "",
-      "foto": [
-        "Keramik_China_02_6.jpeg"
-      ]
-    },
-    {
-      "kode": "V3-03",
       "nama_umum": "Mangkuk",
       "nama_daerah": "Mangkok",
       "jenis_koleksi": "Keramologika",
@@ -64,70 +22,175 @@
       "deskripsi": "Letak Indonesia yang strategis dan hasil bumi kita kaya akan rempah-rempahnya sehingga menjadi daya tarik oleh bangsa asaing untuk memiliki hasil rempah kita seperti pala, lada, cengkeh, kulit manis, garda munggu dll melalui jalur perdagangan. Mereka menukarnya dengan keramik ada berupa piring, mangkuk, kendi, buli-buli, tempayan, guci dll diantaranya adalah mangkuk.\nMangkuk ini adalah keramik asing yang berasal dari Cina terbuat dari tanah liat putih dibakar dengan suhu lebih kurang 600 derajat celcius melalui proses pembakaran pada tungku dengan memakai teknik roda pelarik. Berbentuk bulat, bibir tipis dengan permukaan dinding melengkung seperti huruf C. Lingkaran kaki tinggi dan bersudut. Glasir abu-abu mengkilat pada bagian dinding dalam dan dinding luar. Digunakan sebagai tempat makanan seperti bubur, sup, dan makanan lainnya. Mangkuk berasal dari Cina pada masa dinasti Ming abad ke 17. Terdapat endok remek/pecah seribu pada mangkuk ini akibat pembakaran dengan suhu tnggi Digunakan sebagai tempat makanan.",
       "pencatat": "Revan Defri, S.Pd & Vinny Marlinda, SE",
       "foto": [
-        "Keramik_China_03_8.jpeg"
+        "Keramik_China_03_1.jpeg"
+      ]
+    },
+    {
+      "kode": "V3-02",
+      "nama_umum": "Mangkuk",
+      "nama_daerah": "-",
+      "jenis_koleksi": "Keramologika",
+      "sub_jenis_koleksi": "Alat rumah tangga",
+      "bahan": "Keramik",
+      "cara_didapat": "",
+      "tanggal_didapat": "",
+      "kondisi_benda": "Terawat",
+      "tempat_asal_didapat": "-",
+      "tempat_asal_dibuat": "China",
+      "no_reg": "-",
+      "no_invb": "08.41",
+      "ukuran": "",
+      "deskripsi": "Mangkuk keramik berbentuk bundar dengan badan melebar dan bagian mulut terbuka. Memiliki warna dasar putih dengan permukaan mengilap. Pada bagian dasar dalam terlihat lingkaran berwarna kecokelatan. Bentuknya sederhana dengan bagian dasar lebih sempit dibandingkan bagian mulut, digunakan sebagai wadah untuk menyajikan makanan berkuah, sup, atau hidangan lainnya.",
+      "pencatat": "-",
+      "foto": [
+        "Keramik_China_03_2.jpeg"
+      ]
+    },
+    {
+      "kode": "V3-03",
+      "nama_umum": "Kendi",
+      "nama_daerah": "-",
+      "jenis_koleksi": "Keramologika",
+      "sub_jenis_koleksi": "Alat rumah tangga",
+      "bahan": "Keramik",
+      "cara_didapat": "",
+      "tanggal_didapat": "",
+      "kondisi_benda": "Terawat",
+      "tempat_asal_didapat": "-",
+      "tempat_asal_dibuat": "China",
+      "no_reg": "-",
+      "no_invb": "08.74",
+      "ukuran": "",
+      "deskripsi": "Kendi kecil berbahan keramik dengan bentuk badan membulat dan menggembung, memiliki leher pendek serta lubang mulut yang terbuka. Permukaannya berwarna cokelat kehitaman dengan tampilan mengilap. Pada bagian permukaan terlihat bekas kapur sirih yang menunjukkan jejak penggunaan benda tersebut dalam kehidupan sehari-hari, digunakan sebagai wadah untuk menyimpan kapur sirih yang merupakan salah satu bahan dalam tradisi makan sirih.",
+      "pencatat": "-",
+      "foto": [
+        "Keramik_China_03_3.jpeg"
       ]
     },
     {
       "kode": "V3-04",
-      "nama_umum": "Mangkuk besar",
-      "nama_daerah": "Mangkok",
+      "nama_umum": "Cembung",
+      "nama_daerah": "-",
       "jenis_koleksi": "Keramologika",
       "sub_jenis_koleksi": "Alat rumah tangga",
-      "bahan": "Batuan",
+      "bahan": "Keramik",
       "cara_didapat": "",
       "tanggal_didapat": "",
       "kondisi_benda": "Terawat",
-      "tempat_asal_didapat": "Museum Tuanku Imam Bonjol",
+      "tempat_asal_didapat": "-",
       "tempat_asal_dibuat": "China",
-      "no_reg": "99",
-      "no_invb": "08.41",
+      "no_reg": "-",
+      "no_invb": "08.10",
       "ukuran": "",
-      "deskripsi": "Negara Cina merupakan salah satu penghasil keramik terbesar di Asia yang diproduksi mulai dari Dinasti Han sampai dinasti Ching abad ke 19. Salah satu keramik asing tersebut adalah mangkuk yang terdapat di Museum Imam Bonjol berasal dari Cina.\nMangkuk terbuat dari batuan dicampur silicon dengan pembakaran lebih kurang 1300 derajat celcius. Bentuk badan bulat melingkar dinding melengkung seperti huruf C. Lingkaran tinggi dan bersudut. Lingkaran kaki terbentuk karena dasar dalam masuk. Glasir mengkilat warna abu-abu terdapat pada dinding luar dan dinding dalam. Sedangkan dasar dalam dan dasar luar lingkaran kaki tanpa glasir terdapat bekas tumpangan sewaktu pembakaran. Hiasan kuas dengan motif ikan dan motif keranjang warna abu-abu terdapat pada dinding luar mangkuk ini. Mangkuk digunakan sebagai tempat makanan. Kondisi benda retak di bagian tengah dalam mangkuk ini.",
-      "pencatat": "Revan Defri, S.Pd & Vinny Marlinda, SE",
+      "deskripsi": "Cembung merupakan wadah keramik berbentuk bundar dengan dua pegangan pada sisi kanan dan kiri. Dilengkapi tutup yang memiliki pegangan kecil serta sebuah sendok. Koleksi ini berwarna putih dengan permukaan mengilap dan tanpa hiasan dekoratif yang mencolok. Bentuknya memperlihatkan desain yang mengutamakan fungsi dan kepraktisan dalam penyajian makanan, digunakan sebagai wadah penyajian makanan, terutama hidangan berkuah atau makanan yang perlu ditutup agar tetap terjaga kebersihan dan kehangatannya. Sendok digunakan untuk mengambil atau menyajikan makanan.",
+      "pencatat": "-",
       "foto": [
-        "Keramik_China_04_9.jpeg"
+        "Keramik_China_03_4.jpeg"
       ]
     },
     {
       "kode": "V3-05",
-      "nama_umum": "Kendi",
+      "nama_umum": "Cembung",
       "nama_daerah": "",
       "jenis_koleksi": "Keramologika",
-      "sub_jenis_koleksi": "Alat rumah tangga",
-      "bahan": "Kaolin",
+      "sub_jenis_koleksi": "-",
+      "bahan": "Keramik",
       "cara_didapat": "",
       "tanggal_didapat": "",
       "kondisi_benda": "Terawat",
-      "tempat_asal_didapat": "Museum Tuanku Imam Bonjol",
+      "tempat_asal_didapat": "-",
       "tempat_asal_dibuat": "China",
-      "no_reg": "54",
-      "no_invb": "08.22",
+      "no_reg": "-",
+      "no_invb": "08.12",
       "ukuran": "",
-      "deskripsi": "Benda –benda keramik yang terdapat di Nusantara ini banyak yang berasal dari China. Sejak awal abad masehi telah ada hubungan dagangan dengan China. Kapal-kapal dagang China banyak membawa barang-barang keramik seperti tempayan, guci, mangkuk, piring, dan juga kain, benang dll. Kendi ini terbuat dari porslein, bentuk badan bulat pundak landai mulut kecil dan tebal. Glasir putih mengkilat polos. Kendi ini oleh masyarakat kita digunakan sebagai tempat air.",
-      "pencatat": "Revan Defri, S.Pd & Vinny Marlinda, SE",
+      "deskripsi": "Mangkok ini berbahan keramik berbentuk bundar dengan badan relatif pipih dan dangkal. Memiliki dua pegangan pada sisi kanan dan kiri yang dihiasi ornamen dekoratif timbul. Berwarna putih dengan permukaan mengilap dan tanpa hiasan warna. Bentuknya memperlihatkan perpaduan antara fungsi wadah penyajian dan keindahan ornamen pada bagian pegangan, digunakan sebagai wadah untuk menyajikan makanan atau hidangan, baik makanan kering maupun berkuah dalam jumlah terbatas.",
+      "pencatat": "-",
       "foto": [
-        "Keramik_China_05_10.jpeg"
+        "Keramik_China_03_5.jpeg"
+      ]
+    },
+    {
+      "kode": "V3-06",
+      "nama_umum": "Piring",
+      "nama_daerah": "",
+      "jenis_koleksi": "Keramologika",
+      "sub_jenis_koleksi": "Alat rumah tangga",
+      "bahan": "Keramik",
+      "cara_didapat": "",
+      "tanggal_didapat": "",
+      "kondisi_benda": "Terawat",
+      "tempat_asal_didapat": "-",
+      "tempat_asal_dibuat": "China",
+      "no_reg": "-",
+      "no_invb": "08.43",
+      "ukuran": "",
+      "deskripsi": "Piring keramik berbentuk bundar dengan warna dasar putih dan hiasan motif flora serta ornamen dekoratif berwarna biru. Ragam hias menghiasi bagian tengah dan tepi piring dengan komposisi yang harmonis. Pada permukaannya terlihat beberapa garis retakan yang menunjukkan kondisi fisik koleksi, digunakan sebagai wadah untuk menyajikan makanan atau hidangan dalam kehidupan sehari-hari.",
+      "pencatat": "",
+      "foto": [
+        "Keramik_China_03_6.jpeg"
       ]
     },
     {
       "kode": "V3-07",
-      "nama_umum": "Kediri",
+      "nama_umum": "Kendi",
       "nama_daerah": "",
       "jenis_koleksi": "Keramologika",
       "sub_jenis_koleksi": "Alat rumah tangga",
-      "bahan": "Porselen Halus",
+      "bahan": "Keramik",
       "cara_didapat": "",
       "tanggal_didapat": "",
       "kondisi_benda": "Terawat",
-      "tempat_asal_didapat": "Museum Tuanku Imam Bonjol",
+      "tempat_asal_didapat": "-",
+      "tempat_asal_dibuat": "China",
+      "no_reg": "54",
+      "no_invb": "08.22",
+      "ukuran": "",
+      "deskripsi": "Kendi keramik berbentuk badan membulat dan menggembung dengan bagian bahu melebar, leher pendek, serta mulut berbentuk bundar dengan tepian tebal. Memiliki warna abu-abu kecokelatan dengan permukaan mengilap. Pada bagian bawah badan terdapat hiasan berupa garis-garis melingkar yang mengelilingi kendi, digunakan sebagai wadah untuk menyimpan dan menampung cairan, seperti air atau minuman.",
+      "pencatat": "Revan Defri, S.Pd & Vinny Marlinda, SE",
+      "foto": [
+        "Keramik_China_03_7.jpeg"
+      ]
+    },
+    {
+      "kode": "V3-08",
+      "nama_umum": "Kendi",
+      "nama_daerah": "",
+      "jenis_koleksi": "Keramologika",
+      "sub_jenis_koleksi": "Alat rumah tangga",
+      "bahan": "Keramik",
+      "cara_didapat": "",
+      "tanggal_didapat": "",
+      "kondisi_benda": "Terawat",
+      "tempat_asal_didapat": "-",
+      "tempat_asal_dibuat": "China",
+      "no_reg": "-",
+      "no_invb": "08.68",
+      "ukuran": "",
+      "deskripsi": "Kendi keramik berbentuk badan membulat dengan bagian bahu melebar, leher pendek, dan mulut bundar dengan tepian tebal. Memiliki warna abu-abu kecokelatan dengan permukaan mengilap. Bentuk badan tampak sedikit tidak beraturan dengan beberapa bagian permukaan yang kurang sempurna, digunakan sebagai wadah untuk menyimpan dan menampung air atau cairan lainnya.",
+      "pencatat": "-",
+      "foto": [
+        "Keramik_China_03_8.jpeg"
+      ]
+    },
+    {
+      "kode": "V3-09",
+      "nama_umum": "Kendi",
+      "nama_daerah": "",
+      "jenis_koleksi": "Keramologika",
+      "sub_jenis_koleksi": "Alat rumah tangga",
+      "bahan": "Keramik",
+      "cara_didapat": "",
+      "tanggal_didapat": "",
+      "kondisi_benda": "Terawat",
+      "tempat_asal_didapat": "-",
       "tempat_asal_dibuat": "China",
       "no_reg": "135",
       "no_invb": "08.70",
       "ukuran": "",
-      "deskripsi": "Sejenis wadah yang merupakan salah satu tempat menyimpan air yang terbuat dari batuan, berbentuk bulat panjang, dinding terdiri dari bulatan besar, bibir tebal dan melebar keluar dan bagian dalam terdapat mulut/cucuk seperti cerek, dengan hiasan kuas warna biru motif flora dan fauna.",
-      "pencatat": "",
+      "deskripsi": "Kendi keramik berbentuk badan membulat melebar dengan bagian bahu yang landai dan leher relatif tinggi. Memiliki warna dasar putih dengan hiasan motif flora dan ornamen dekoratif berwarna biru yang menghiasi bagian badan dan leher. Pada bagian leher terdapat pola garis melingkar, sedangkan bagian badan dihiasi komposisi ragam hias yang memberikan kesan artistik, digunakan sebagai wadah untuk menyimpan dan menuangkan air atau cairan lainnya.",
+      "pencatat": "-",
       "foto": [
-        "Keramik_China_07_12.jpeg"
+        "Keramik_China_03_9.jpeg"
       ]
     }
   ]
